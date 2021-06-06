@@ -1,2 +1,3 @@
-# feedbacker
-Self-Hosted Node.js Feedback System
+# Feedbacker
+
+This is the Self-Hosted Node.js Feedback System.
